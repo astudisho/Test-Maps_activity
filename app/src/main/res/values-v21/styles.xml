@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar.Japper" parent="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:colorPrimary">@color/colorMaterialPrimary</item>
+        <item name="android:colorAccent">@color/colorMaterialAccent</item>
+        <item name="android:colorPrimaryDark">@color/colorMaterialPrimaryDark</item>
+    </style>
+</resources>
